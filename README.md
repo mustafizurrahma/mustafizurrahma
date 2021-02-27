@@ -45,7 +45,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgithub-logo_25231&psig=AOvVaw0RNYLnCS5C1p-zPcuKsK1Y&ust=1614502529857000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiqx-HYie8CFQAAAAAdAAAAABAD" />
+<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1614417140~hmac=2000c03830e3e30c049d1e74b6caa1ee"/>
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
