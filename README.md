@@ -54,8 +54,8 @@
 
 
 
-[website]: https://www.wpdeveloper24.com
-[twitter]: https://twitter.com/MdShuvo16720032
+[website]: https://devs-portfolio.netlify.app/
+[twitter]: https://twitter.com/Mustafi07571826
 [instagram]: https://www.instagram.com/mustafizur5073
-[linkedin]: https://www.linkedin.com/in/md-mustafizur-rahman-b6a9a41b3/
+[linkedin]: https://www.linkedin.com/in/mustafijur76/
 [facebook]: https://www.facebook.com/mustafijur76/
