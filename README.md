@@ -2,15 +2,11 @@
 
 👨‍🎓 I am a Diploma Student  in Electronics Department And✨Web Designer And Developer - [Mustafizur][website] 💕
 
-  📙 I am currently Learning at Programming Hero
-  
- 🌱 I'm currently Learning NodeJS and MongoDB
- 
-  🎯 2021 Goals: Typescript, Vue, NextJS
-  
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love coding and love learning something new every day 🤔
-- 🍔 I like to eat and sleep 😃
+ - 📙 I am currently Learning at Programming Hero
+ - 🌱 I'm currently Learning NodeJS and MongoDB
+ - 🎯 2021 Goals: Typescript, Vue, NextJS
+-  ⚡ Fun fact: I love coding and love learning something new every day 🤔
+-  🍔 I like to eat and sleep 😃
 
 ### I Love Coding 🖥️  Music 🎵 Movie 🎞️ And Love To Read A Little 📘 
 
