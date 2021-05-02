@@ -1,4 +1,4 @@
-😊 Hi there, I'm Md Mustafizur Rahman
+<h2>Assalamu Alaikum, I am Md Mustafizur Rahman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 👨‍🎓 I am a Diploma Student  in Electronics Department And✨Web Designer And Developer - [Mustafizur][website] 💕
 
