@@ -1,6 +1,6 @@
 <h2>Assalamu Alaikum, I am Md Mustafizur Rahman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
-👨‍🎓 I am a Diploma Student  in Electronics Department And✨Web Designer And Developer 💕
+👨‍🎓 I am a Diploma Student  in Electronics Department And✨Junior Full Stack Web Developer💕
 
  - 📙 I am currently Learning at Programming Hero
  - 🌱 I'm currently Learning NodeJS and MongoDB
