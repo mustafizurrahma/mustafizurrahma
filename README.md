@@ -7,7 +7,7 @@
  - 🎯 2021 Goals: Typescript, Vue, NextJS
 -  ⚡ Fun fact: I love coding and love learning something new every day 🤔
 -  🍔 I like to eat and sleep 😃
-
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
 ### I Love Coding 🖥️  Music 🎵 Movie 🎞️ And Love To Read A Little 📘 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" I Love Coding 🖥️  Music 🎵 Movie 🎞️ And Love To Read A Little 📘 " width="350" />](https://www.wpdeveloper24.com)
@@ -22,11 +22,7 @@
 
 <br />
 
-<div align="center">
-  <i><b>Github Stats</b></i>
-  <br/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mustafizurrahma&show_icons=true" />
-</div>
+
 
 <br />
 <br />
