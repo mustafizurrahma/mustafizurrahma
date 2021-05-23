@@ -22,6 +22,12 @@
 
 <br />
 
+<div align="center">
+  <i><b>Github Stats</b></i>
+  <br/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mustafizurrahma&show_icons=true" />
+</div>
+
 <br />
 <br />
 
